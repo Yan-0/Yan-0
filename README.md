@@ -2,11 +2,9 @@
 <h3 align="center">Currently Pursuing Undergrad Degree in Computer Application</h3>
 <img align="right" width="500" alt="Gif" src="http://media.tumblr.com/tumblr_md161cczqj1rrc78e.gif">
 
-- 🔭 I’m currently working on **flutter UI development**
-
 - 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **shreyanbhandari36@gmail.com**
 
